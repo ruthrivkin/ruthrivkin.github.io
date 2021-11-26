@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "About Me"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
+I study the ecology and evolution of polar bears to better understand the impacts of increasing climate change in the North. I use cutting-edge genomic and bioinformatic tools to assess adaptation and patterns of current and historic movement of polar bears to help inform conservation and management strategies. I earned my BSc specializing in wildlife biology from the University of Guelph, then continued on to complete a PhD at the University of Toronto on urban evolutionary ecology. My PhD research combined field experiments, natural populations surveys, and next generation sequencing and genetic analyses to understand the role urbanization plays in shaping the ecology and evolution of species and their interactions with one another. Originally from Newfoundland, I now lives in Ontario, where I spends my free time trail running with my dogs and baking sourdough bread.
 
 A data-driven personal website
 ======
