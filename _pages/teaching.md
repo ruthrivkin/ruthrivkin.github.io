@@ -9,5 +9,4 @@ Teaching lies at the core of my future academic goals. My teaching philosophy ba
 
 ### BIO342: Evolutionary Biology (2021)
 This course offered an introduction to the concepts and importance of evolutionary biology. The course focused on how genetic variation arises and is maintained, mechanisms of evolutionary change and how these mechanisms lead to adaptation, sexual selection, speciation and co-evolution. Throughout the course we considered how fossils, experiments, genetics and molecular systematics can be used to understand evolution.
-    - [Syllabus](/files/PDF/BIO342_Syllabus.pdf)
-
+  * [Syllabus](/files/PDF/BIO342_Syllabus.pdf)
