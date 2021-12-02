@@ -16,6 +16,6 @@ For a complete list of talks, poster presentations, and media appearances, check
 
 ## Media Interviews
 
-Ruth Rivkin wins Excellence in PhD Research Award, U of T Celebrates. 2020 [https://www.utoronto.ca/celebrates/ruth-rivkin-wins-excellence-phd-research-award](https://www.utoronto.ca/celebrates/ruth-rivkin-wins-excellence-phd-research-award)
+Ruth Rivkin wins Excellence in PhD Research Award. U of T Celebrates. 2020 [https://www.utoronto.ca/celebrates/ruth-rivkin-wins-excellence-phd-research-award](https://www.utoronto.ca/celebrates/ruth-rivkin-wins-excellence-phd-research-award)
 
-Why house sparrows can eat starch: the evolution of city wildlife. The Environment Report. 2-18 Michigan NPR Radio. [https://www.michiganradio.org/post/why-house-sparrows-can-eat-starch-evolution-city-wildlife](https://www.michiganradio.org/post/why-house-sparrows-can-eat-starch-evolution-city-wildlife) 
+Why house sparrows can eat starch: the evolution of city wildlife. The Environment Report. Michigan NPR Radio. 2018. [https://www.michiganradio.org/post/why-house-sparrows-can-eat-starch-evolution-city-wildlife](https://www.michiganradio.org/post/why-house-sparrows-can-eat-starch-evolution-city-wildlife) 
