@@ -9,10 +9,17 @@ Send me an email if you need a copy of one of my manuscripts, but cannot access 
 
 ## Current list of publications
 
+15. **Rivkin LR**, AC Andrade. 2023. Increased herbivory but not cyanogenesis is associated with urbanization in a tropical wildflower. Austral Ecology.  [https://doi.org/10.1111/aec.13274](https://doi.org/10.1111/aec.13274)
+
+14.  **Rivkin LR**, MTJ Johnson. 2022, The impact of urbanization on mating system and population genetic variation in the native wildflower, Impatiens capensis. Journal of Urban Ecology. juac009. [https://doi.org/10.1093/jue/juac009](https://doi.org/10.1093/jue/juac009)
+
+13. Verrelli, BC, A Alberti, S Des Roches, NC Harris, AP Hendry, MTJ Johnson, AM Savage, A Charmantier, KM Gotanda, L Govaert, LS Miles, **LR Rivkin**, KM Winchell, KI Brans, Cn Correa, SE Diamond, B Fitzhugh, NB Grimm, S Hughes, JM Marzluff, J Munshi-South, C Rojas, JS Santangelo, CJ Schell, JA Schweitzer, M Szulkin, MC Urban, Y Zhou, C Ziter. 2022. A global horizon scan for urban evolutionary ecology. Trends in Ecology and Evolution. 37:1006-1019. [https://doi.org/10.1016/j.tree.2022.07.012](https://doi.org/10.1016/j.tree.2022.07.012)
+
+12. KM Winchell, KJ Aviles-Rodriguez, EJ Carlen, LS Miles, A Charmantier, LF De León, KM Gotanda, **LR Rivkin**, M Szulkin, and BC Verrelli. 2022. 2022. Moving past the challenges and misconceptions in urban adaptation research. Ecology and Evolution. 12:ee9552. [http://doi.org/10.1002/ece3.9552](http://doi.org/10.1002/ece3.9552) 
+
 11. **Rivkin LR**, RA Johnson, JA Chaves, MTJ Johnson. 2021. Urbanization alters ecological and evolutionary interactions between Darwin’s finches and *Tribulus cistoides* on the Galápagos Islands. Ecology and Evolution. 11:15754–15765. [http://doi.org/10.1002/ece3.8236](http://doi.org/10.1002/ece3.8236)
 
 10. **Rivkin LR**, V Nhan, AE Weis, MTJ Johnson. 2020. Variation in pollinator-mediated plant reproduction across an urbanization gradient. Oecologia. 192:1073–1083. [https://doi.org/10.1007/s00442-020-04621-z ](https://doi.org/10.1007/s00442-020-04621-z ) 
-
 
 9. Des Roches, S, K Brans, M Lambert, **LR Rivkin**, A Savage, C Schell, C Correa, L De Meester, S Diamond, N Grimm, N Harris, A Hendry, L Goevart, MTJ Johnson, J Munshi-South, E Palkovacs, M Szulkin, M Urban, B Verrelli, M Alberti. 2020 Socio-eco-evolutionary dynamics in cities. In Evolutionary Applications. 14:248– 267. [https://doi.org/10.1111/eva.13065](https://doi.org/10.1111/eva.13065)
 
