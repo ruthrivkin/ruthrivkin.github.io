@@ -57,7 +57,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : ruth-rivkin
+  username               : 
 facebook:
   username               :
   app_id                 :
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Ruth Rivkin"
   avatar           : "profile.png"
-  bio              : "Postdoctoral Researcher"
+  bio              : "Postdoctoral Researcher Fellow"
   location         :
   employer         : "Polar Bears International"
   pubmed           : 
