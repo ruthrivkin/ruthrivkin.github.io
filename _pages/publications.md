@@ -9,6 +9,15 @@ Send me an email if you need a copy of one of my manuscripts, but cannot access 
 
 ## Current list of publications
 
+19. de Greef E, C Müller, AA Snead, **LR Rivkin**, SH Ferguson, CA Watt, M Marcoux, SD. Petersen, CJ Garroway. 2025. Identifying areas of potential risk based on future genetic adaptability in three Arctic whale species. In press at American Naturalist. Submission ID 62411.
+
+18. **Rivkin LR**, ES Richardson, JM Miller, TC Atwood, S Baryluk, EW Born, C Davis, M Dyck, E de Greef, KL Laidre, NJ Lunn, S McCarthy, ME Obbard, MA. Owen, NW Pilfold, A Roberto-Charron, Ø Wiig, AP Wilder, CJ Garroway. 2024. Assessing the risk of climate maladaptation for Canadian polar bears. Ecology Letters. 27:e14486. [https://doi.org/10.1111/ele.14486](https://doi.org/10.1111/ele.14486)
+
+17. Miller JM, RM Malenfant, **LR Rivkin***, TC Atwood, S Baryluk, EW Born, R Dietz, KL Laidre, J Pongracz, ES Richardson, Ø Wiig, CS Davis. 2024. Development of an 8K SNP chip to assess adaptive diversity and hybridization in polar bears. Conservation Genetics Resources. 16: 237-249. [https://doi.org/10.1007/s12686-024-01359-1]( https://doi.org/10.1007/s12686-024-01359-1)
+*Corresponding author
+
+16. Urban, MC, M Alberti, L De Meester, Y Zhou, BC Verrelli, M Szulkin, C Schmidt, P Roberts, **LR Rivkin**, EP Palkovacs, J Munshi-South, A Melesis, NC Harris, KM Gotanda, CJ Garroway, SE Diamond, S Des Roches, A Charmantier, KI Brans. 2024. Interactions between climate change and urbanization will shape the future of biodiversity. Nature Climate Change. 14:436–447. [https://doi.org/10.1038/s41558-024-01996-2](https://doi.org/10.1038/s41558-024-01996-2) 
+
 15. **Rivkin LR**, AC Andrade. 2023. Increased herbivory but not cyanogenesis is associated with urbanization in a tropical wildflower. Austral Ecology.  [https://doi.org/10.1111/aec.13274](https://doi.org/10.1111/aec.13274)
 
 14.  **Rivkin LR**, MTJ Johnson. 2022, The impact of urbanization on mating system and population genetic variation in the native wildflower, Impatiens capensis. Journal of Urban Ecology. juac009. [https://doi.org/10.1093/jue/juac009](https://doi.org/10.1093/jue/juac009)
@@ -30,7 +39,6 @@ Send me an email if you need a copy of one of my manuscripts, but cannot access 
 6. **Rivkin LR**, JS Santangelo, M Alberti, MF Aronson, CW de Keyzer, SE Diamond, M Fortin, LJ Frazee, AJ Gorton, AP Hendry, Y Liu, JB Losos, JS MacIvor, RA Martin, M McDonnell, LS Miles, J Munshi‐South, R Ness, AE Newman, MR Stothart, P Theodorou, KA Thompson, BV Verrelli, A Whitehead, KM Winchell, and MTJ Johnson. 2019. A roadmap for urban evolutionary ecology. Evolutionary Applications. 12:384–398. [https://doi.org/10.1111/eva.12734](https://doi.org/10.1111/eva.12734)
 
 5. Miles, LM, **LR Rivkin**, MTJ Johnson, J Munshi-South, BC Verrelli. 2019. Gene flow and genetic drift in urban environments. Molecular Ecology. 28:4138-4151. [https://doi.org/10.1111/mec.15221](https://doi.org/10.1111/mec.15221)
-
 
 4. **Rivkin LR**, SCH Barrett, MTJ Johnson. 2018. The effects of plant sexual system and latitude on resistance to herbivores. American Journal of Botany. 105:977-985. [https://doi.org/10.1002/ajb2.1098](https://doi.org/10.1002/ajb2.1098) 
 

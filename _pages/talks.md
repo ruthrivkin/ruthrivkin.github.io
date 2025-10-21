@@ -10,12 +10,17 @@ For a complete list of talks, poster presentations, and media appearances, check
 
 ## Talks
 
-**Rivkin LR**. 2020. The effects of urbanization on the ecology and evolution of species interactions. Doctoral Excellence Award Talk. Canadian Society for Ecology and Evolution. [Virtual](https://www.youtube.com/watch?v=s7T1kq9TlhY&t=127s).
+[Can polar bears adapt to climate change? Insights from genetics.](https://www.youtube.com/live/Fy4bYUt5s_Y?si=hWxegdLYGxKylz_E&t=5655) 2024. McCall MacBain 10 Minute Postdoctoral Research Talks. Hamilton, ON. 
 
-**Rivkin LR**, AL Case, CM Caruso. 2014. Mechanisms of frequency dependent fitness in gynodioecious *Lobelia siphilitica*. Evolution. Raleigh, NC. [Filmed](https://www.youtube.com/watch?v=8PVM1fl2aE4)
+[The effects of urbanization on the ecology and evolution of species interactions.](https://www.youtube.com/watch?v=s7T1kq9TlhY&t=127s) 2020. Doctoral Excellence Award Talk. Canadian Society for Ecology and Evolution.
 
 ## Media Interviews
 
-Ruth Rivkin wins Excellence in PhD Research Award. U of T Celebrates. 2020 [https://www.utoronto.ca/celebrates/ruth-rivkin-wins-excellence-phd-research-award](https://www.utoronto.ca/celebrates/ruth-rivkin-wins-excellence-phd-research-award)
+[Pizzlies, grolars, and narlugas: Why we may soon see more Arctic hybrids](https://www.nationalgeographic.com/animals/article/arctic-hybrid-polar-grizzly-bear-genetics-climate?loggedin=true&rnd=1723027142398) National Geographic
 
-Why house sparrows can eat starch: the evolution of city wildlife. The Environment Report. Michigan NPR Radio. 2018. [https://www.michiganradio.org/post/why-house-sparrows-can-eat-starch-evolution-city-wildlife](https://www.michiganradio.org/post/why-house-sparrows-can-eat-starch-evolution-city-wildlife) 
+[How common at grolar bears?](https://www.cbc.ca/player/play/video/9.6432675) CBC Radio.
+
+[Ruth Rivkin wins Excellence in PhD Research Award](https://www.utoronto.ca/celebrates/ruth-rivkin-wins-excellence-phd-research-award) U of T Celebrates.
+
+[Why house sparrows can eat starch: the evolution of city wildlife](https://www.michiganradio.org/post/why-house-sparrows-can-eat-starch-evolution-city-wildlife) 
+ The Environment Report. Michigan NPR Radio.
