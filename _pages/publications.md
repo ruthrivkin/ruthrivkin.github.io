@@ -18,7 +18,7 @@ Send me an email if you need a copy of one of my manuscripts, but cannot access 
 
 16. Urban, MC, M Alberti, L De Meester, Y Zhou, BC Verrelli, M Szulkin, C Schmidt, P Roberts, **LR Rivkin**, EP Palkovacs, J Munshi-South, A Melesis, NC Harris, KM Gotanda, CJ Garroway, SE Diamond, S Des Roches, A Charmantier, KI Brans. 2024. Interactions between climate change and urbanization will shape the future of biodiversity. Nature Climate Change. 14:436–447. [https://doi.org/10.1038/s41558-024-01996-2](https://doi.org/10.1038/s41558-024-01996-2) 
 
-15. **Rivkin LR**, AC Andrade. 2023. Increased herbivory but not cyanogenesis is associated with urbanization in a tropical wildflower. Austral Ecology.  [https://doi.org/10.1111/aec.13274](https://doi.org/10.1111/aec.13274)
+15. **Rivkin LR**, AC Andrade. 2023. Increased herbivory but not cyanogenesis is associated with urbanization in a tropical wildflower. Austral Ecology. 48:388-398. [https://doi.org/10.1111/aec.13274](https://doi.org/10.1111/aec.13274)
 
 14.  **Rivkin LR**, MTJ Johnson. 2022, The impact of urbanization on mating system and population genetic variation in the native wildflower, Impatiens capensis. Journal of Urban Ecology. juac009. [https://doi.org/10.1093/jue/juac009](https://doi.org/10.1093/jue/juac009)
 
