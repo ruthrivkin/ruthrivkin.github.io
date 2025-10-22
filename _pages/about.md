@@ -8,6 +8,8 @@ redirect_from:
   - /about.html
 ---
 
+<br/><img src='/images/Triplets.jpg'>
+
 Welcome! I am a broadly trained molecular ecologist, and my research focuses on the interface between global environmental change, ecology, evolution, and conservation genetics. 
 I am currently an NSERC Postdoctoral Research Fellow at the University of Manitoba. Warming temperatures and disappearing sea ice are changing how polar bears survive across the Arctic. I use cutting edge molecular and bioinformatic methods to understand to assess the genetic potential for adaptation in polar bears, identify how sea ice loss contributes variation in genetic diversity. My work sheds light on how climate warming impacts Arctic ecosystems, and helps guide conservation management strategies for polar bears.
 
