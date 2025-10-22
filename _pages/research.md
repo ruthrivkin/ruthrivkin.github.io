@@ -27,7 +27,7 @@ I am currently working on a population genetics project looked at the effects of
 
 In addition to this research, I have studied [patterns of non-adaptive evolution across species](https://onlinelibrary.wiley.com/doi/abs/10.1111/mec.15221), to better understand the effects of urbanization on genetic diversity and differentiation. I have also been involved in several opinion pieces calling for the [better integration of human societal factors into urban ecology and evolution](https://onlinelibrary.wiley.com/doi/full/10.1111/eva.13065).
 
-### Urban Species Interactions
+### Urban species interactions
 
 While urbanization has been demonstrated to influence the ecology and evolution of species, less is known about how urbanization affects interactions among species. Species interactions play an important role in shaping ecosystems because they mediate species abundances, distributions, and habitat use patterns. Consequently, understanding how urbanization influences species interactions is critically important as the number and size of cities continues to grow.
 
