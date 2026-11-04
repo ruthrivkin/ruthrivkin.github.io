@@ -9,7 +9,11 @@ Send me an email if you need a copy of one of my manuscripts, but cannot access 
 
 ## Current list of publications
 
-19. de Greef E, C Müller, AA Snead, **LR Rivkin**, SH Ferguson, CA Watt, M Marcoux, SD. Petersen, CJ Garroway. 2025. Identifying areas of potential risk based on future genetic adaptability in three Arctic whale species. In press at American Naturalist. Submission ID 62411.
+21. **Rivkin LR**, K King, J Aars, K Laidre, A Langwieder, D McGeachy, L Newediuk, S Petersen, N Pilfold, AP Wilder, G York, ES Richardson, C Garroway. 2026. Climate-linked evolution and genetics in a warming Arctic. Ecological Monographs. 96:e70053. [https://doi.org/10.1002/ecm.70053](https://doi.org/10.1002/ecm.70053)
+
+20. **Rivkin LR**, C Garroway, MTJ Johnson. 2026. A multi-city assessment of genomic evolution in the native wildflower Impatiens capensis. Evolutionary Applications. 19:e70218. [https://doi.org/10.1111/eva.70218](https://doi.org/10.1111/eva.70218)  
+
+19. de Greef E, C Müller, AA Snead, **LR Rivkin**, SH Ferguson, CA Watt, M Marcoux, SD. Petersen, CJ Garroway. 2025. Identifying areas of potential risk based on future genetic adaptability in three Arctic whale species. In press at American Naturalist. [https://doi.org/10.1086/738889](https://doi.org/10.1086/738889)
 
 18. **Rivkin LR**, ES Richardson, JM Miller, TC Atwood, S Baryluk, EW Born, C Davis, M Dyck, E de Greef, KL Laidre, NJ Lunn, S McCarthy, ME Obbard, MA. Owen, NW Pilfold, A Roberto-Charron, Ø Wiig, AP Wilder, CJ Garroway. 2024. Assessing the risk of climate maladaptation for Canadian polar bears. Ecology Letters. 27:e14486. [https://doi.org/10.1111/ele.14486](https://doi.org/10.1111/ele.14486)
 
